@@ -246,9 +246,3 @@ Want to tweak the AI's voice, brain, or how it listens? Modify the Python files 
 ## Contributing 🤝
 
 Got ideas or found a bug? Contributions are welcome! Feel free to open issues or submit pull requests.
-
-## License 📜
-
-The core codebase of this project is released under the **MIT License** (see the [LICENSE](./LICENSE) file for details).
-
-This project relies on external specific TTS engines (like `Coqui XTTSv2`) and LLM providers which have their **own licensing terms**. Please ensure you comply with the licenses of all components you use.
